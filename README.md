@@ -1,9 +1,9 @@
 **Name**: Megha Prasad<br/>
 **Company**: CODTECH IT SOLUTIONS<br/>
-**ID**: CT6WDS1227
-**Domain**: Machine Learning
-**Duration**: 
-**Mentor**:
+**ID**: CT6WDS1227<br/>
+**Domain**: Machine Learning<br/>
+**Duration**: <br/>
+**Mentor**:<br/>
 
 ## Overview of the Project
 ## Project: LINEAR REGRESSION ON HOUSING PRICES
