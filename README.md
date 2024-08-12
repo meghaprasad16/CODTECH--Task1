@@ -1,15 +1,15 @@
-Name: Megha Prasad
-Company: CODTECH IT SOLUTIONS
-ID: CT6WDS1227
-Domain: Machine Learning
-Duration: 
-Mentor:
+**Name**: Megha Prasad
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT6WDS1227
+**Domain**: Machine Learning
+**Duration**: 
+**Mentor**:
 
-Overview of the Project
-Project: LINEAR REGRESSION ON HOUSING PRICES
-Objective
+## Overview of the Project
+## Project: LINEAR REGRESSION ON HOUSING PRICES
+### Objective
 Implement linear regression to predict housing prices based on features like square footage, number of bedrooms, and location. 
-Key Activities
+### Key Activities
 For developing a sentiment analysis model to classify movie reviews as positive or negative, the key activities include:
 Data Preparation:
 Loading the Dataset: Import the dataset containing movie reviews and their associated sentiments.
@@ -38,9 +38,7 @@ Monitoring & Maintenance:
 Model Performance: Continuously monitor the model’s performance in a production environment.
 Model Updates: Periodically update the model with new data to maintain accuracy over time.
 
-
-Technologies Used
-
+### Technologies Used
 1. Python
 The primary programming language used to implement the sentiment analysis model.
 2. Pandas
