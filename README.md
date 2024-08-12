@@ -1,5 +1,5 @@
-**Name**: Megha Prasad
-**Company**: CODTECH IT SOLUTIONS
+**Name**: Megha Prasad<br/>
+**Company**: CODTECH IT SOLUTIONS<br/>
 **ID**: CT6WDS1227
 **Domain**: Machine Learning
 **Duration**: 
